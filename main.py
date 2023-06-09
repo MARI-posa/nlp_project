@@ -35,7 +35,7 @@ video_html = """
 
 		</style>	
 		<video autoplay muted loop id="myVideo">
-		  <source src="https://streamable.com/6rr9i5")>
+		  <source src="blob:https://youfiles.herokuapp.com/692eef8a-d53b-4b38-be48-c6339cd9f3e6")>
 		  Your browser does not support HTML5 video.
 		</video>
 """
